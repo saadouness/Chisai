@@ -1,6 +1,6 @@
 content_folder = ['art', 'blog']
 relative_build_url = "/"
-absolute_build_url = "https://github.com/saadouness/Chisai/"
+absolute_build_url = "https://saadouness.github.io/Chisai/"
 build_folder = "build/"
 assets_folder = "assets/"
 medias_folder = "medias/"
